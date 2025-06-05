@@ -11,14 +11,6 @@
 ---
 
 </div>
-
-<!-- Stats -->
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Leo-Slv&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
- <img src="https://nirzak-streak-stats.vercel.app?user=Leo-Slv&theme=aura&hide_border=true" width="50%" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Slv&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
-</div>
-
 <!-- Habilidades -->
 <div align="center">
  
@@ -71,9 +63,3 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5512992460071) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/leonardo-irineu-8418b0288) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo1692004@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)
 
 </div>
-
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leo-Slv/Leo-Slv/output/pacman-contribution-graph-dark.svg">
- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leo-Slv/Leo-Slv/output/pacman-contribution-graph.svg">
- <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Leo-Slv/Leo-Slv/output/pacman-contribution-graph.svg">
-</picture>
