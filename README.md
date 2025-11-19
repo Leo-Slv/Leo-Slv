@@ -2,7 +2,7 @@
 <div align="center">
  
 # 👋 Hello, I'm Leonardo da Silva Irineu
-## 🚀 Full-Stack Developer | ASP.NET, Node.js & Java 
+## 🚀 Full-Stack Developer | ASP.NET, Next.Js & Java 
 
 ### 🌟 **[🔗 VIEW MY PORTFOLIO](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)** 🌟
 ### [![Portfolio Badge](https://img.shields.io/badge/🎨_EXPLORE_MY_WORK-Click_Here-FF6B6B?style=for-the-badge&logoColor=white)](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)
@@ -51,7 +51,7 @@
 🌍 **Languages:** Portuguese (Native), English (Intermediate)  
 
 ### 🎯 Specializations
-- **Backend Development:** Java, Spring Boot, .NET, ASP.NET, RESTful APIs  
+- **Backend Development:**  .NET, ASP.NET, Java, Spring Boot, RESTful APIs  
 - **Frontend Development:** Next.js, Angular, React, TypeScript  
 - **Architecture:** Domain-Driven Design (DDD), SOLID Principles, Clean Architecture  
 - **Databases:** PostgreSQL, MySQL, SQL Server  
