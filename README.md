@@ -63,6 +63,19 @@
 
 ## 🚀 Featured Projects
 
+---
+
+## 🌟 Featured Project – AgileTracker Server  
+### 🗂️ AgileTracker/AgileTracker-Server
+
+[![AgileTracker](https://img.shields.io/badge/AgileTracker_Server-.NET_9_+_DDD-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/AgileTracker/AgileTracker-Server)
+
+**Description (English):**  
+This project consists of a web system that centralizes conveniences in software development project management, integrating agile methodologies (Scrum + Kanban) with analytical dashboard features, documentation tools, and collaborative diagramming resources.
+
+---
+
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Angular_TypeScript-DD0031?style=for-the-badge&logo=angular)](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)      
 [![ACTi-Case](https://img.shields.io/badge/ACTi_Case-.NET-512BD4?style=for-the-badge&logo=dotnet)](https://github.com/Leo-Slv/ACTi-case)  
 [![Shop API](https://img.shields.io/badge/Shop_API-Spring_Boot-6DB33F?style=for-the-badge&logo=spring)](https://github.com/Leo-Slv/SHOP_API)  
