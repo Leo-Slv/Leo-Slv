@@ -4,7 +4,7 @@
 # 👋 Hello, I'm Leonardo da Silva Irineu
 ## 🚀 Full-Stack Developer | ASP.NET, Next.Js & Java 
 
-### 🌟 **[🔗 VIEW MY PORTFOLIO](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)** 🌟
+### 🌟 **[🔗 VIEW MY PORTFOLIO](https://sl1nk.com/AaFxC?ref=github-profile)** 🌟
 ### [![Portfolio Badge](https://img.shields.io/badge/🎨_EXPLORE_MY_WORK-Click_Here-FF6B6B?style=for-the-badge&logoColor=white)](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)
 
 *Discover my complete professional journey, featured projects, and technical skills*
