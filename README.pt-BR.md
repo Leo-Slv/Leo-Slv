@@ -181,6 +181,6 @@
 
 ### 💼 **[Veja meu Portfólio completo →](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Leo-Slv&color=FF6B6B&style=for-the-badge)
+
 
 </div>
