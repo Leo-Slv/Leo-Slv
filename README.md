@@ -7,7 +7,12 @@
   <img src="https://img.shields.io/badge/🇺🇸_English-EN-3B82F6?style=for-the-badge&logoColor=white" />
 </a>
 
+<a href="./README.pt-BR.md">
+  <img src="https://img.shields.io/badge/🇧🇷_Português-PT--BR-2CB67D?style=for-the-badge&logoColor=white" />
+</a>
+
 </div>
+
 
 <!-- =========================
      HERO
