@@ -20,7 +20,7 @@
 <div align="center">
 
 # 👋 Hello, I'm Leonardo da Silva Irineu
-## 🚀 Full-Stack Developer | ASP.NET, Next.js & Java
+## 🚀 Full-Stack Developer | ASP.NET, Next.js & FastAPI
 
 ### 🌟 **[🔗 VIEW MY PORTFOLIO](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)** 🌟
 ### [![Portfolio Badge](https://img.shields.io/badge/🎨_EXPLORE_MY_WORK-Click_Here-FF6B6B?style=for-the-badge&logoColor=white)](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)
@@ -92,13 +92,13 @@
 ## 💻 Languages
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🚀 Frameworks 
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ## 🛠️ Tools & Technologies
@@ -126,7 +126,7 @@
 🌍 **Languages:** Portuguese (Native), English (Intermediate)
 
 ### 🎯 Specializations
-- **Backend:** .NET, ASP.NET, Java, Spring Boot, RESTful APIs  
+- **Backend:** .NET, ASP.NET, Python, FastAPI, RESTful APIs  
 - **Frontend:** Next.js, Angular, React, TypeScript  
 - **Architecture:** Domain-Driven Design (DDD), SOLID, Clean Architecture  
 - **Databases:** PostgreSQL, MySQL, SQL Server  
@@ -143,8 +143,8 @@
 ## 🚀 Other Projects
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Angular_TypeScript-DD0031?style=for-the-badge&logo=angular)](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)
+[![InboxIQ](https://img.shields.io/badge/InboxIQ-FastAPI-009688?style=for-the-badge&logo=fastapi)](https://github.com/Leo-Slv/InboxIQ)
 [![ACTi-Case](https://img.shields.io/badge/ACTi_Case-.NET-512BD4?style=for-the-badge&logo=dotnet)](https://github.com/Leo-Slv/ACTi-case)
-[![Shop API](https://img.shields.io/badge/Shop_API-Spring_Boot-6DB33F?style=for-the-badge&logo=spring)](https://github.com/Leo-Slv/SHOP_API)
 [![ErrorSquad Server](https://img.shields.io/badge/ErrorSquad_Server-Node.js-339933?style=for-the-badge&logo=nodedotjs)](https://github.com/ErrorSquad-ABP/ErrorSquad-Server)
 
 ### 🎨 **[➡️ See All Projects in My Portfolio](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)** 🎨
