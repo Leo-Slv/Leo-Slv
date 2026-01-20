@@ -142,10 +142,13 @@
 
 ## 🚀 Other Projects
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Angular_TypeScript-DD0031?style=for-the-badge&logo=angular)](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)
-[![InboxIQ](https://img.shields.io/badge/InboxIQ-FastAPI-009688?style=for-the-badge&logo=fastapi)](https://github.com/Leo-Slv/InboxIQ)
 [![ACTi-Case](https://img.shields.io/badge/ACTi_Case-.NET-512BD4?style=for-the-badge&logo=dotnet)](https://github.com/Leo-Slv/ACTi-case)
-[![ErrorSquad Server](https://img.shields.io/badge/ErrorSquad_Server-Node.js-339933?style=for-the-badge&logo=nodedotjs)](https://github.com/ErrorSquad-ABP/ErrorSquad-Server)
+[![InboxIQ](https://img.shields.io/badge/InboxIQ-FastAPI-009688?style=for-the-badge&logo=fastapi)](https://github.com/Leo-Slv/InboxIQ)
+[![ABP_2DSM](https://img.shields.io/badge/Portal_Limnológico-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)
+[![Gerenciamento Pedagogico](https://img.shields.io/badge/Gerenciamento_Pedagogico-Node.js-339933?style=for-the-badge&logo=nodedotjs)](https://github.com/ErrorSquad-ABP/ErrorSquad-Server)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Angular_TypeScript-DD0031?style=for-the-badge&logo=angular)](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)
+
+
 
 ### 🎨 **[➡️ See All Projects in My Portfolio](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)** 🎨
 
