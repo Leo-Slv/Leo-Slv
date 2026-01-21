@@ -1,13 +1,13 @@
 <!-- =========================
-     ALTERNÂNCIA DE IDIOMA (GitHub-friendly)
+     LANGUAGE TOGGLE (GitHub-friendly)
      ========================= -->
 <div align="center">
 
-<a href="./README.md">
+<a href="#sobre">
   <img src="https://img.shields.io/badge/🇺🇸_English-EN-3B82F6?style=for-the-badge&logoColor=white" />
 </a>
 
-<a href="#sobre">
+<a href="./README.pt-BR.md">
   <img src="https://img.shields.io/badge/🇧🇷_Português-PT--BR-2CB67D?style=for-the-badge&logoColor=white" />
 </a>
 
@@ -19,11 +19,11 @@
      ========================= -->
 <div align="center">
 
-# 👋 Olá, sou Leonardo da Silva Irineu
+# 👋 Olá, eu sou Leonardo da Silva Irineu
 ## 🚀 Desenvolvedor Full-Stack | ASP.NET, Next.js & FastAPI
 
 ### 🌟 **[🔗 VEJA MEU PORTFÓLIO](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)** 🌟
-### [![Portfolio Badge](https://img.shields.io/badge/🎨_EXPLORE_MEU_TRABALHO-Clique_Aqui-FF6B6B?style=for-the-badge&logoColor=white)](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)
+### [![Portfolio Badge](https://img.shields.io/badge/🎨_EXPLORE_MEUS_TRABALHOS-Clique_Aqui-FF6B6B?style=for-the-badge&logoColor=white)](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)
 
 *Descubra minha jornada profissional completa, projetos em destaque e habilidades técnicas.*
 
@@ -32,7 +32,7 @@
 ---
 
 <!-- =========================
-     PROJETO EM DESTAQUE (AGILETRACKER SERVER) - ALTA ÊNFASE
+     FEATURED PROJECT (AGILETRACKER SERVER) - HIGH EMPHASIS
      ========================= -->
 <div align="center">
 
@@ -40,37 +40,37 @@
 
 [![AgileTracker Server](https://img.shields.io/badge/AgileTracker_Server-.NET_9_+_DDD-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/AgileTracker/AgileTracker-Server)
 [![Architecture](https://img.shields.io/badge/Arquitetura-DDD_+_Clean_Architecture-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AgileTracker/AgileTracker-Server)
-[![Status](https://img.shields.io/badge/Status-Desenvolvimento_Ativo-2CB67D?style=for-the-badge&logoColor=white)](https://github.com/AgileTracker/AgileTracker-Server)
+[![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento_Ativo-2CB67D?style=for-the-badge&logoColor=white)](https://github.com/AgileTracker/AgileTracker-Server)
 
 </div>
 
 <div align="center">
 
-**AgileTracker centraliza e sincroniza o que geralmente está fragmentado em múltiplas ferramentas em um único ecossistema:**
-**gerenciamento ágil (Scrum/Kanban), documentação técnica e fundações prontas para análise** — focado em **produtividade, rastreabilidade e padronização**.
+**O AgileTracker centraliza e sincroniza o que normalmente fica fragmentado em múltiplas ferramentas em um único ecossistema:**
+**gestão ágil (Scrum/Kanban), documentação técnica e uma base pronta para analytics/dashboards** — com foco em **produtividade, rastreabilidade e padronização**.
 
 </div>
 
 <div align="center">
 
-### 🔎 Por que AgileTracker Server se destaca
+### 🔎 Por que o AgileTracker Server se destaca
 **O que este backend foi construído para entregar:**
 
-✅ Gerenciamento Ágil Unificado (Scrum + Kanban)  
-✅ Domínio pronto para Analytics & Dashboards (abordagem focada em métricas)  
-✅ Fundação backend profissional (DDD + Clean Architecture)  
-✅ Suporte a colaboração centrado em API (futuras integrações / clientes)  
-✅ Confiabilidade database-first (entidades, invariantes, disciplina de migrations)
+✅ Gestão Ágil Unificada (Scrum + Kanban)  
+✅ Domínio pronto para Analytics & Dashboards (abordagem métricas-first)  
+✅ Base profissional de backend (DDD + Clean Architecture)  
+✅ Suporte à colaboração centrada em API (integrações / clientes futuros)  
+✅ Confiabilidade orientada ao banco de dados (entidades, invariantes, disciplina de migrations)
 
 </div>
 
 <div align="center">
 
-### 🧩 Destaques Técnicos & de Engenharia
-- Fundação backend **.NET 9**  
+### 🧩 Destaques de Tecnologia & Engenharia
+- Base de backend em **.NET 9**  
 - **Domain-Driven Design (DDD)** para invariantes de negócio e linguagem ubíqua  
-- Separação **Clean Architecture** (Domain / Application / Infrastructure / API)  
-- **SOLID + limites sustentáveis** para suportar escala de longo prazo  
+- Separação em **Clean Architecture** (Domain / Application / Infrastructure / API)  
+- **SOLID + limites sustentáveis** para suportar escalabilidade a longo prazo  
 - **APIs RESTful** projetadas para consumo multi-cliente (Web, Mobile, Integrações)
 
 </div>
@@ -78,14 +78,14 @@
 <div align="center">
 
 ### 🔗 Acesso Rápido
-[![Repository](https://img.shields.io/badge/Repositório-GitHub-0D1117?style=for-the-badge&logo=github)](https://github.com/AgileTracker/AgileTracker-Server)
+[![Repository](https://img.shields.io/badge/Reposit%C3%B3rio-GitHub-0D1117?style=for-the-badge&logo=github)](https://github.com/AgileTracker/AgileTracker-Server)
 
 </div>
 
 ---
 
 <!-- =========================
-     HABILIDADES
+     SKILLS
      ========================= -->
 <div align="center">
  
@@ -112,7 +112,7 @@
 ---
 
 <!-- =========================
-     SOBRE
+     ABOUT
      ========================= -->
 <div align="center">
 
@@ -120,7 +120,7 @@
 
 ## 👨‍💻 Sobre
 
-🎓 **Técnico em Análise e Desenvolvimento de Sistemas** — ETEC (2024)  
+🎓 **Curso Técnico em Análise e Desenvolvimento de Sistemas** — ETEC (2024)  
 📚 **Cursando Tecnologia em Desenvolvimento de Software Multiplataforma** — FATEC (2025–2027)  
 📍 **Localização:** São José dos Campos, SP — Brasil  
 🌍 **Idiomas:** Português (Nativo), Inglês (Intermediário)
@@ -136,16 +136,19 @@
 ---
 
 <!-- =========================
-     OUTROS PROJETOS (MANTER, MAS COM MENOR ÊNFASE QUE AGILETRACKER)
+     OTHER PROJECTS (KEEP, BUT LOWER EMPHASIS THAN AGILETRACKER)
      ========================= -->
 <div align="center">
 
 ## 🚀 Outros Projetos
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Angular_TypeScript-DD0031?style=for-the-badge&logo=angular)](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)
-[![InboxIQ](https://img.shields.io/badge/InboxIQ-FastAPI-009688?style=for-the-badge&logo=fastapi)](https://github.com/Leo-Slv/InboxIQ)
 [![ACTi-Case](https://img.shields.io/badge/ACTi_Case-.NET-512BD4?style=for-the-badge&logo=dotnet)](https://github.com/Leo-Slv/ACTi-case)
-[![ErrorSquad Server](https://img.shields.io/badge/ErrorSquad_Server-Node.js-339933?style=for-the-badge&logo=nodedotjs)](https://github.com/ErrorSquad-ABP/ErrorSquad-Server)
+[![InboxIQ](https://img.shields.io/badge/InboxIQ-FastAPI-009688?style=for-the-badge&logo=fastapi)](https://github.com/Leo-Slv/InboxIQ)
+[![ABP_2DSM](https://img.shields.io/badge/Portal_Limnol%C3%B3gico-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)
+[![Gerenciamento Pedagogico](https://img.shields.io/badge/Gerenciamento_Pedagogico-Node.js-339933?style=for-the-badge&logo=nodedotjs)](https://github.com/ErrorSquad-ABP/ErrorSquad-Server)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Angular_TypeScript-DD0031?style=for-the-badge&logo=angular)](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)
+
+
 
 ### 🎨 **[➡️ Veja Todos os Projetos no Meu Portfólio](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)** 🎨
 
@@ -154,11 +157,11 @@
 ---
 
 <!-- =========================
-     GRÁFICO DE ATIVIDADE
+     ACTIVITY GRAPH
      ========================= -->
 <div align="center">
 
-## 📈 Atividade de Contribuição
+## 📈 Atividade de Contribuições
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leo-Slv&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF)
 
@@ -167,7 +170,7 @@
 ---
 
 <!-- =========================
-     REDES SOCIAIS
+     SOCIAL
      ========================= -->
 <div align="center">
 
