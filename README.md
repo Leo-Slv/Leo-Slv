@@ -32,28 +32,28 @@
 ---
 
 <!-- =========================
-     FEATURED PROJECT (AGILETRACKER SERVER) - HIGH EMPHASIS
+     FEATURED PROJECT (ARCHFLOW SERVER) - HIGH EMPHASIS
      ========================= -->
 <div align="center">
 
-# ⭐ Featured Project: AgileTracker Server
+# ⭐ Featured Project: ArchFlow Server
 
-[![AgileTracker Server](https://img.shields.io/badge/AgileTracker_Server-.NET_9_+_DDD-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/AgileTracker/AgileTracker-Server)
-[![Architecture](https://img.shields.io/badge/Architecture-DDD_+_Clean_Architecture-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AgileTracker/AgileTracker-Server)
-[![Status](https://img.shields.io/badge/Status-Active_Development-2CB67D?style=for-the-badge&logoColor=white)](https://github.com/AgileTracker/AgileTracker-Server)
+[![ArchFlow Server](https://img.shields.io/badge/ArchFlow_Server-.NET_9_+_DDD-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/ArchFlowPlatform/ArchFlow-Server)
+[![Architecture](https://img.shields.io/badge/Architecture-DDD_+_Clean_Architecture-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArchFlowPlatform/ArchFlow-Server)
+[![Status](https://img.shields.io/badge/Status-Active_Development-2CB67D?style=for-the-badge&logoColor=white)](https://github.com/ArchFlowPlatform/ArchFlow-Server)
 
 </div>
 
 <div align="center">
 
-**AgileTracker centralizes and synchronizes what is usually fragmented across multiple tools into a single ecosystem:**
+**ArchFlow centralizes and synchronizes what is usually fragmented across multiple tools into a single ecosystem:**
 **agile management (Scrum/Kanban), technical documentation, and analytics-ready foundations** — focused on **productivity, traceability, and standardization**.
 
 </div>
 
 <div align="center">
 
-### 🔎 Why AgileTracker Server stands out
+### 🔎 Why ArchFlow Server stands out
 **What this backend is built to deliver:**
 
 ✅ Unified Agile Management (Scrum + Kanban)  
@@ -78,7 +78,7 @@
 <div align="center">
 
 ### 🔗 Quick Access
-[![Repository](https://img.shields.io/badge/Repository-GitHub-0D1117?style=for-the-badge&logo=github)](https://github.com/AgileTracker/AgileTracker-Server)
+[![Repository](https://img.shields.io/badge/Repository-GitHub-0D1117?style=for-the-badge&logo=github)](https://github.com/ArchFlowPlatform/ArchFlow-Server)
 
 </div>
 
@@ -136,7 +136,7 @@
 ---
 
 <!-- =========================
-     OTHER PROJECTS (KEEP, BUT LOWER EMPHASIS THAN AGILETRACKER)
+     OTHER PROJECTS (KEEP, BUT LOWER EMPHASIS THAN ARCHFLOW)
      ========================= -->
 <div align="center">
 
