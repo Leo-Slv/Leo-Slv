@@ -173,7 +173,7 @@
 
 
 
-### 🎨 **[➡️ Veja Todos os Projetos no Meu Portfólio](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)** 🎨
+### **[➡️ Veja Todos os Projetos no Meu Portfólio](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)** 
 
 </div>
 
