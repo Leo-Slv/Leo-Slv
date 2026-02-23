@@ -148,6 +148,31 @@
 [![Gerenciamento Pedagogico](https://img.shields.io/badge/Gerenciamento_Pedagogico-Node.js-339933?style=for-the-badge&logo=nodedotjs)](https://github.com/ErrorSquad-ABP/ErrorSquad-Server)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Angular_TypeScript-DD0031?style=for-the-badge&logo=angular)](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)
 
+---
+
+<!-- =========================
+     ORGANIZATIONS
+     ========================= -->
+<div align="center">
+
+## 🏢 Organizations
+
+<a href="https://github.com/ArchFlowPlatform">
+  <img src="https://avatars.githubusercontent.com/ArchFlowPlatform" width="64" height="64" style="border-radius:50%" title="ArchFlowPlatform" alt="ArchFlowPlatform"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/ExceptionH4ndlers">
+  <img src="https://avatars.githubusercontent.com/ExceptionH4ndlers" width="64" height="64" style="border-radius:50%" title="ExceptionH4ndlers" alt="ExceptionH4ndlers"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/ErrorSquad-ABP">
+  <img src="https://avatars.githubusercontent.com/ErrorSquad-ABP" width="64" height="64" style="border-radius:50%" title="ErrorSquad-ABP" alt="ErrorSquad-ABP"/>
+</a>
+
+</div>
+
+---
+
 
 
 ### **[➡️ See All Projects in My Portfolio](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)**
