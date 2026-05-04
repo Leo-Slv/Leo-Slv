@@ -23,12 +23,12 @@
 
 # Leonardo da Silva Irineu
 
-Backend · APIs · Software Architecture  
-Building products with .NET, Next.js, and FastAPI from São José dos Campos, SP.
+Backend · Front-end · APIs · Software Architecture  
+Full Stack Developer focused on building modern, well-structured, and useful applications for real-world problems, combining robust APIs with web interfaces built in Next.js.
 
 <br/>
 
-`Backend` &nbsp; `REST APIs` &nbsp; `Architecture`
+`Backend` &nbsp; `Front-end` &nbsp; `Next.js` &nbsp; `REST APIs` &nbsp; `Architecture`
 
 <br/>
 
@@ -55,7 +55,7 @@ Building products with .NET, Next.js, and FastAPI from São José dos Campos, SP
 |:---:|:---:|
 | **ArchFlow Server** | **Quantum CRM** |
 | Unified agile management backend with Scrum/Kanban, technical documentation, and an analytics foundation. Built with .NET 9, DDD, and Clean Architecture. | Lead management system for sales teams, focused on opportunity traceability and sales productivity. |
-| `.NET 9` · `DDD` · `Clean Architecture` · `REST` | `ASP.NET` · `PostgreSQL` · `Angular` · `REST` |
+| `.NET 9` · `DDD` · `Clean Architecture` · `REST` | `NestJS` · `PostgreSQL` · `Next.js` · `REST` |
 | [![View Repository](https://img.shields.io/badge/View_Repository-2D1B4E?style=flat-square&logo=github&logoColor=white)](https://github.com/ArchFlowPlatform/ArchFlow-Server) | [![View Repository](https://img.shields.io/badge/View_Repository-2D1B4E?style=flat-square&logo=github&logoColor=white)](https://github.com/ErrorSquad-ABP/ABP3-Sistema-Gestao-Leads) |
 
 </div>
@@ -95,7 +95,7 @@ Building products with .NET, Next.js, and FastAPI from São José dos Campos, SP
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
 **Tools & Infrastructure**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
