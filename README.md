@@ -1,213 +1,160 @@
-<!-- =========================
-     LANGUAGE TOGGLE (GitHub-friendly)
-     ========================= -->
-<div align="center">
+<!-- LANGUAGE TOGGLE -->
+<div align="right">
 
-<a href="#sobre">
-  <img src="https://img.shields.io/badge/🇧🇷_Português-PT--BR-2CB67D?style=for-the-badge&logoColor=white" />
+<a href="#readme">
+  <img src="https://img.shields.io/badge/🇧🇷_PT--BR-2D1B4E?style=flat-square&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="./README.en-US.md">
-  <img src="https://img.shields.io/badge/🇺🇸_English-EN-3B82F6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🇺🇸_EN--US-2D1B4E?style=flat-square&logoColor=white" />
 </a>
 
 </div>
 
-
-<!-- =========================
-     HERO
-     ========================= -->
+<!-- HERO -->
 <div align="center">
 
-# Olá, eu sou Leonardo da Silva Irineu
-## Desenvolvedor Full-Stack | ASP.NET, Next.js & FastAPI
+<table><tr><td width="680px" align="left">
+<br/>
 
-### **[🔗 VEJA MEU PORTFÓLIO](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)**
-### [![Portfolio Badge](https://img.shields.io/badge/🎨_EXPLORE_MEUS_TRABALHOS-Clique_Aqui-FF6B6B?style=for-the-badge&logoColor=white)](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)
+**FULL STACK DEVELOPER**
 
-*Descubra minha jornada profissional completa, projetos em destaque e habilidades técnicas.*
+---
+
+# Leonardo da Silva Irineu
+
+Backend · APIs · Arquitetura de Software  
+Construindo produtos com .NET, Next.js e FastAPI a partir de São José dos Campos, SP.
+
+<br/>
+
+`Backend` &nbsp; `APIs REST` &nbsp; `Arquitetura`
+
+<br/>
+
+> 🎓 Técnico em ADS — ETEC (2024)  
+> 🏫 Cursando Desenvolvimento de Software Multiplataforma (DSM) — Faculdade de Tecnologia FATEC (2025–2027)  
+> 🌍 Português (Nativo) · Inglês (Intermediário)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🔗_Acesse_Meu_Portfólio-Clique_Aqui-white?style=for-the-badge&logoColor=black)](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)
+
+<br/>
+</td></tr></table>
 
 </div>
 
 ---
 
-<!-- =========================
-     FEATURED PROJECT (ARCHFLOW SERVER) - HIGH EMPHASIS
-     ========================= -->
-<div align="center">
-
-# Projeto em Destaque: ArchFlow Server
-
-[![ArchFlow Server](https://img.shields.io/badge/ArchFlow_Server-.NET_9_+_DDD-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/ArchFlowPlatform/ArchFlow-Server)
-[![Architecture](https://img.shields.io/badge/Arquitetura-DDD_+_Clean_Architecture-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArchFlowPlatform/ArchFlow-Server)
-[![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento_Ativo-2CB67D?style=for-the-badge&logoColor=white)](https://github.com/ArchFlowPlatform/ArchFlow-Server)
-
-</div>
+## 🚀 Projetos em Destaque
 
 <div align="center">
 
-**O ArchFlow centraliza e sincroniza o que normalmente fica fragmentado em múltiplas ferramentas em um único ecossistema:**
-**gestão ágil (Scrum/Kanban), documentação técnica e uma base pronta para analytics/dashboards** — com foco em **produtividade, rastreabilidade e padronização**.
-
-</div>
-
-<div align="center">
-
-### 🔎 Por que o ArchFlow Server se destaca
-**O que este backend foi construído para entregar:**
-
-✅ Gestão Ágil Unificada (Scrum + Kanban)  
-✅ Domínio pronto para Analytics & Dashboards (abordagem métricas-first)  
-✅ Base profissional de backend (DDD + Clean Architecture)  
-✅ Suporte à colaboração centrada em API (integrações / clientes futuros)  
-✅ Confiabilidade orientada ao banco de dados (entidades, invariantes, disciplina de migrations)
-
-</div>
-
-<div align="center">
-
-### 🧩 Destaques de Tecnologia & Engenharia
-- Base de backend em **.NET 9**  
-- **Domain-Driven Design (DDD)** para invariantes de negócio e linguagem ubíqua  
-- Separação em **Clean Architecture** (Domain / Application / Infrastructure / API)  
-- **SOLID + limites sustentáveis** para suportar escalabilidade a longo prazo  
-- **APIs RESTful** projetadas para consumo multi-cliente (Web, Mobile, Integrações)
-
-</div>
-
-<div align="center">
-
-### 🔗 Acesso Rápido
-[![Repository](https://img.shields.io/badge/Reposit%C3%B3rio-GitHub-0D1117?style=for-the-badge&logo=github)](https://github.com/ArchFlowPlatform/ArchFlow-Server)
+| | |
+|:---:|:---:|
+| **ArchFlow Server** | **Quantum CRM** |
+| Backend de gestão ágil unificada com Scrum/Kanban, documentação técnica e base para analytics. Construído com .NET 9, DDD e Clean Architecture. | Sistema de gestão de leads para times de vendas, com foco em rastreabilidade de oportunidades e produtividade comercial. |
+| `.NET 9` · `DDD` · `Clean Architecture` · `REST` | `ASP.NET` · `PostgreSQL` · `Angular` · `REST` |
+| [![Ver Repositório](https://img.shields.io/badge/Ver_Repositório-2D1B4E?style=flat-square&logo=github&logoColor=white)](https://github.com/ArchFlowPlatform/ArchFlow-Server) | [![Ver Repositório](https://img.shields.io/badge/Ver_Repositório-2D1B4E?style=flat-square&logo=github&logoColor=white)](https://github.com/ErrorSquad-ABP/ABP3-Sistema-Gestao-Leads) |
 
 </div>
 
 ---
 
-<!-- =========================
-     SKILLS
-     ========================= -->
+## 📁 Outros Projetos
+
 <div align="center">
- 
-## 💻 Linguagens
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🚀 Frameworks 
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-## 🛠️ Ferramentas & Tecnologias
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+| | |
+|:---:|:---:|
+| **ACTi Case** | **InboxIQ** |
+| Aplicação backend construída com .NET. | Automação de e-mails e triagem inteligente com FastAPI. |
+| `.NET` | `FastAPI` · `Python` |
+| [![GitHub](https://img.shields.io/badge/GitHub-2D1B4E?style=flat-square&logo=github&logoColor=white)](https://github.com/Leo-Slv/ACTi-case) | [![GitHub](https://img.shields.io/badge/GitHub-2D1B4E?style=flat-square&logo=github&logoColor=white)](https://github.com/Leo-Slv/InboxIQ) |
+| **Portal Limnológico** | **Portfólio** |
+| Portal acadêmico desenvolvido com Vite para dados ambientais. | Portfólio pessoal com projetos e trajetória profissional. |
+| `Vite` · `TypeScript` | `Next.js` · `TypeScript` |
+| [![GitHub](https://img.shields.io/badge/GitHub-2D1B4E?style=flat-square&logo=github&logoColor=white)](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/) | [![Acessar](https://img.shields.io/badge/Acessar-2D1B4E?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/) |
 
 </div>
 
 ---
 
-<!-- =========================
-     ABOUT
-     ========================= -->
+## 💻 Stack Técnica
+
 <div align="center">
 
-<a id="sobre"></a>
+**Linguagens**  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## 👨‍💻 Sobre
+**Frameworks**  
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
-🎓 **Curso Técnico em Análise e Desenvolvimento de Sistemas** — ETEC (2024)  
-📚 **Cursando Tecnologia em Desenvolvimento de Software Multiplataforma** — FATEC (2025–2027)  
-📍 **Localização:** São José dos Campos, SP — Brasil  
-🌍 **Idiomas:** Português (Nativo), Inglês (Intermediário)
-
-### 🎯 Especializações
-- **Backend:** .NET, ASP.NET, Python, FastAPI, APIs RESTful  
-- **Frontend:** Next.js, Angular, React, TypeScript  
-- **Arquitetura:** Domain-Driven Design (DDD), SOLID, Clean Architecture  
-- **Bancos de Dados:** PostgreSQL, MySQL, SQL Server  
+**Ferramentas & Infra**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 </div>
 
 ---
-
-<!-- =========================
-     OTHER PROJECTS (KEEP, BUT LOWER EMPHASIS THAN ARCHFLOW)
-     ========================= -->
-<div align="center">
-
-## 🚀 Outros Projetos
-
-[![ACTi-Case](https://img.shields.io/badge/ACTi_Case-.NET-512BD4?style=for-the-badge&logo=dotnet)](https://github.com/Leo-Slv/ACTi-case)
-[![InboxIQ](https://img.shields.io/badge/InboxIQ-FastAPI-009688?style=for-the-badge&logo=fastapi)](https://github.com/Leo-Slv/InboxIQ)
-[![ABP_2DSM](https://img.shields.io/badge/Portal_Limnol%C3%B3gico-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)
-[![Gerenciamento Pedagogico](https://img.shields.io/badge/Gerenciamento_Pedagogico-Node.js-339933?style=for-the-badge&logo=nodedotjs)](https://github.com/ErrorSquad-ABP/ErrorSquad-Server)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Angular_TypeScript-DD0031?style=for-the-badge&logo=angular)](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)
-
----
-
-<!-- =========================
-     ORGANIZATIONS
-     ========================= -->
-<div align="center">
 
 ## 🏢 Organizações
 
-<a href="https://github.com/ArchFlowPlatform">
-  <img src="https://avatars.githubusercontent.com/ArchFlowPlatform" width="64" height="64" style="border-radius:50%" title="ArchFlowPlatform" alt="ArchFlowPlatform"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/ExceptionH4ndlers">
-  <img src="https://avatars.githubusercontent.com/ExceptionH4ndlers" width="64" height="64" style="border-radius:50%" title="ExceptionH4ndlers" alt="ExceptionH4ndlers"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/ErrorSquad-ABP">
-  <img src="https://avatars.githubusercontent.com/ErrorSquad-ABP" width="64" height="64" style="border-radius:50%" title="ErrorSquad-ABP" alt="ErrorSquad-ABP"/>
-</a>
-
-</div>
-
-
-
-### **[➡️ Veja Todos os Projetos no Meu Portfólio](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)** 
-
-</div>
-
----
-
-<!-- =========================
-     ACTIVITY GRAPH
-     ========================= -->
 <div align="center">
 
-## 📈 Atividade de Contribuições
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leo-Slv&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF)
+<table><tr>
+<td align="center">
+  <a href="https://github.com/ArchFlowPlatform">
+    <img src="https://avatars.githubusercontent.com/ArchFlowPlatform" width="52" height="52" style="border-radius:50%" /><br/>
+    <sub>ArchFlowPlatform</sub>
+  </a>
+</td>
+<td width="32"></td>
+<td align="center">
+  <a href="https://github.com/ExceptionH4ndlers">
+    <img src="https://avatars.githubusercontent.com/ExceptionH4ndlers" width="52" height="52" style="border-radius:50%" /><br/>
+    <sub>ExceptionH4ndlers</sub>
+  </a>
+</td>
+<td width="32"></td>
+<td align="center">
+  <a href="https://github.com/ErrorSquad-ABP">
+    <img src="https://avatars.githubusercontent.com/ErrorSquad-ABP" width="52" height="52" style="border-radius:50%" /><br/>
+    <sub>ErrorSquad-ABP</sub>
+  </a>
+</td>
+</tr></table>
 
 </div>
 
 ---
 
-<!-- =========================
-     SOCIAL
-     ========================= -->
+## 📈 Atividade
+
 <div align="center">
 
-## 🌐 Conecte-se Comigo
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leo-Slv&theme=react-dark&hide_border=true&bg_color=0D1117&color=6D3BB5&line=6D3BB5&point=FFFFFF)
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5512992460071)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/leonardo-irineu-dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo1692004@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)
+</div>
 
 ---
 
-### 💼 **[Veja Meu Portfólio Completo →](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)**
+## 🌐 Contato
 
+<div align="center">
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5512992460071)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-irineu-dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leonardo1692004@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2D1B4E?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)
 
 </div>
