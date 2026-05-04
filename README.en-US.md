@@ -2,11 +2,11 @@
 <div align="right">
 
 <a href="#readme">
-  <img src="https://img.shields.io/badge/🇧🇷_PT--BR-2D1B4E?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/PT--BR-2D1B4E?style=flat-square&logoColor=white" />
 </a>
 &nbsp;
 <a href="./README.en-US.md">
-  <img src="https://img.shields.io/badge/🇺🇸_EN--US-2D1B4E?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/EN--US-2D1B4E?style=flat-square&logoColor=white" />
 </a>
 
 </div>
@@ -32,13 +32,13 @@ Building products with .NET, Next.js, and FastAPI from São José dos Campos, SP
 
 <br/>
 
-> 🎓 Technical Degree in Systems Analysis and Development — ETEC (2024)  
-> 🏫 Studying Multiplatform Software Development (DSM) — Faculdade de Tecnologia FATEC (2025–2027)  
-> 🌍 Portuguese (Native) · English (Intermediate)
+> Technical Degree in Systems Analysis and Development — ETEC (2024)  
+> Studying Multiplatform Software Development (DSM) — Faculdade de Tecnologia FATEC (2025–2027)  
+> Portuguese (Native) · English (Intermediate)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🔗_Visit_My_Portfolio-Click_Here-white?style=for-the-badge&logoColor=black)](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-Click_Here-white?style=for-the-badge&logoColor=black)](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)
 
 <br/>
 </td></tr></table>
@@ -47,14 +47,14 @@ Building products with .NET, Next.js, and FastAPI from São José dos Campos, SP
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 | | |
 |:---:|:---:|
 | **ArchFlow Server** | **Quantum CRM** |
-| Unified agile management backend with Scrum/Kanban, technical documentation, and analytics foundation. Built with .NET 9, DDD, and Clean Architecture. | Lead management system for sales teams, focused on opportunity traceability and commercial productivity. |
+| Unified agile management backend with Scrum/Kanban, technical documentation, and an analytics foundation. Built with .NET 9, DDD, and Clean Architecture. | Lead management system for sales teams, focused on opportunity traceability and sales productivity. |
 | `.NET 9` · `DDD` · `Clean Architecture` · `REST` | `ASP.NET` · `PostgreSQL` · `Angular` · `REST` |
 | [![View Repository](https://img.shields.io/badge/View_Repository-2D1B4E?style=flat-square&logo=github&logoColor=white)](https://github.com/ArchFlowPlatform/ArchFlow-Server) | [![View Repository](https://img.shields.io/badge/View_Repository-2D1B4E?style=flat-square&logo=github&logoColor=white)](https://github.com/ErrorSquad-ABP/ABP3-Sistema-Gestao-Leads) |
 
@@ -62,7 +62,7 @@ Building products with .NET, Next.js, and FastAPI from São José dos Campos, SP
 
 ---
 
-## 📁 Other Projects
+## Other Projects
 
 <div align="center">
 
@@ -81,7 +81,7 @@ Building products with .NET, Next.js, and FastAPI from São José dos Campos, SP
 
 ---
 
-## 💻 Technical Stack
+## Technical Stack
 
 <div align="center">
 
@@ -107,7 +107,7 @@ Building products with .NET, Next.js, and FastAPI from São José dos Campos, SP
 
 ---
 
-## 🏢 Organizations
+## Organizations
 
 <div align="center">
 
@@ -138,7 +138,7 @@ Building products with .NET, Next.js, and FastAPI from São José dos Campos, SP
 
 ---
 
-## 📈 Activity
+## Activity
 
 <div align="center">
 
@@ -148,7 +148,7 @@ Building products with .NET, Next.js, and FastAPI from São José dos Campos, SP
 
 ---
 
-## 🌐 Contact
+## Contact
 
 <div align="center">
 
