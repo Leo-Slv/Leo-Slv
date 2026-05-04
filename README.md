@@ -55,7 +55,7 @@ Construindo produtos com .NET, Next.js e FastAPI a partir de São José dos Camp
 |:---:|:---:|
 | **ArchFlow Server** | **Quantum CRM** |
 | Backend de gestão ágil unificada com Scrum/Kanban, documentação técnica e base para analytics. Construído com .NET 9, DDD e Clean Architecture. | Sistema de gestão de leads para times de vendas, com foco em rastreabilidade de oportunidades e produtividade comercial. |
-| `.NET 9` · `DDD` · `Clean Architecture` · `REST` | `ASP.NET` · `PostgreSQL` · `Angular` · `REST` |
+| `.NET 9` · `DDD` · `Clean Architecture` · `REST` | `NEST` · `PostgreSQL` · `NEXT` · `REST` |
 | [![Ver Repositório](https://img.shields.io/badge/Ver_Repositório-2D1B4E?style=flat-square&logo=github&logoColor=white)](https://github.com/ArchFlowPlatform/ArchFlow-Server) | [![Ver Repositório](https://img.shields.io/badge/Ver_Repositório-2D1B4E?style=flat-square&logo=github&logoColor=white)](https://github.com/ErrorSquad-ABP/ABP3-Sistema-Gestao-Leads) |
 
 </div>
