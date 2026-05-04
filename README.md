@@ -23,12 +23,12 @@
 
 # Leonardo da Silva Irineu
 
-Backend · APIs · Arquitetura de Software  
-Construindo produtos com .NET, Next.js e FastAPI a partir de São José dos Campos, SP.
+Backend · Front-end · APIs · Arquitetura de Software  
+Desenvolvedor Full Stack focado em construir aplicações modernas, bem estruturadas e úteis para problemas reais, unindo APIs robustas com interfaces web em Next.js.
 
 <br/>
 
-`Backend` &nbsp; `APIs REST` &nbsp; `Arquitetura`
+`Backend` &nbsp; `Front-end` &nbsp; `Next.js` &nbsp; `APIs REST` &nbsp; `Arquitetura`
 
 <br/>
 
@@ -55,7 +55,7 @@ Construindo produtos com .NET, Next.js e FastAPI a partir de São José dos Camp
 |:---:|:---:|
 | **ArchFlow Server** | **Quantum CRM** |
 | Backend de gestão ágil unificada com Scrum/Kanban, documentação técnica e base para analytics. Construído com .NET 9, DDD e Clean Architecture. | Sistema de gestão de leads para times de vendas, com foco em rastreabilidade de oportunidades e produtividade comercial. |
-| `.NET 9` · `DDD` · `Clean Architecture` · `REST` | `NEST` · `PostgreSQL` · `NEXT` · `REST` |
+| `.NET 9` · `DDD` · `Clean Architecture` · `REST` | `NestJS` · `PostgreSQL` · `Next.js` · `REST` |
 | [![Ver Repositório](https://img.shields.io/badge/Ver_Repositório-2D1B4E?style=flat-square&logo=github&logoColor=white)](https://github.com/ArchFlowPlatform/ArchFlow-Server) | [![Ver Repositório](https://img.shields.io/badge/Ver_Repositório-2D1B4E?style=flat-square&logo=github&logoColor=white)](https://github.com/ErrorSquad-ABP/ABP3-Sistema-Gestao-Leads) |
 
 </div>
@@ -95,7 +95,7 @@ Construindo produtos com .NET, Next.js e FastAPI a partir de São José dos Camp
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
 **Ferramentas & Infra**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
