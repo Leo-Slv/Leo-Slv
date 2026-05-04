@@ -2,11 +2,11 @@
 <div align="right">
 
 <a href="#readme">
-  <img src="https://img.shields.io/badge/🇧🇷_PT--BR-2D1B4E?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/PT--BR-2D1B4E?style=flat-square&logoColor=white" />
 </a>
 &nbsp;
 <a href="./README.en-US.md">
-  <img src="https://img.shields.io/badge/🇺🇸_EN--US-2D1B4E?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/EN--US-2D1B4E?style=flat-square&logoColor=white" />
 </a>
 
 </div>
@@ -32,13 +32,13 @@ Construindo produtos com .NET, Next.js e FastAPI a partir de São José dos Camp
 
 <br/>
 
-> 🎓 Técnico em ADS — ETEC (2024)  
-> 🏫 Cursando Desenvolvimento de Software Multiplataforma (DSM) — Faculdade de Tecnologia FATEC (2025–2027)  
-> 🌍 Português (Nativo) · Inglês (Intermediário)
+> Técnico em ADS — ETEC (2024)  
+> Cursando Desenvolvimento de Software Multiplataforma (DSM) — Faculdade de Tecnologia FATEC (2025–2027)  
+> Português (Nativo) · Inglês (Intermediário)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🔗_Acesse_Meu_Portfólio-Clique_Aqui-white?style=for-the-badge&logoColor=black)](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Acesse_Meu_Portfólio-Clique_Aqui-white?style=for-the-badge&logoColor=black)](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)
 
 <br/>
 </td></tr></table>
@@ -47,7 +47,7 @@ Construindo produtos com .NET, Next.js e FastAPI a partir de São José dos Camp
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
 <div align="center">
 
@@ -62,7 +62,7 @@ Construindo produtos com .NET, Next.js e FastAPI a partir de São José dos Camp
 
 ---
 
-## 📁 Outros Projetos
+## Outros Projetos
 
 <div align="center">
 
@@ -81,7 +81,7 @@ Construindo produtos com .NET, Next.js e FastAPI a partir de São José dos Camp
 
 ---
 
-## 💻 Stack Técnica
+## Stack Técnica
 
 <div align="center">
 
@@ -107,7 +107,7 @@ Construindo produtos com .NET, Next.js e FastAPI a partir de São José dos Camp
 
 ---
 
-## 🏢 Organizações
+## Organizações
 
 <div align="center">
 
@@ -138,7 +138,7 @@ Construindo produtos com .NET, Next.js e FastAPI a partir de São José dos Camp
 
 ---
 
-## 📈 Atividade
+## Atividade
 
 <div align="center">
 
@@ -148,7 +148,7 @@ Construindo produtos com .NET, Next.js e FastAPI a partir de São José dos Camp
 
 ---
 
-## 🌐 Contato
+## Contato
 
 <div align="center">
 
