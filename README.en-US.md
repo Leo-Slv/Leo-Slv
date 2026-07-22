@@ -28,7 +28,7 @@ Full Stack Developer focused on building modern, well-structured, and useful app
 
 <br/>
 
-`Backend` &nbsp; `Front-end` &nbsp; `Next.js` &nbsp; `REST APIs` &nbsp; `Architecture`
+`ASP.NET` &nbsp; `Nest.js` &nbsp; `FastAPI` &nbsp; `Next.js` &nbsp; `Angular` &nbsp; `Vite`
 
 <br/>
 
