@@ -38,7 +38,7 @@ Desenvolvedor Full Stack focado em construir aplicações modernas, bem estrutur
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Acesse_Meu_Portfólio-Clique_Aqui-white?style=for-the-badge&logoColor=black)](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Acesse_Meu_Portfólio-Clique_Aqui-white?style=for-the-badge&logoColor=black)](https://leonardo-irineu-dev.vercel.app//)
 
 <br/>
 </td></tr></table>
@@ -75,7 +75,7 @@ Desenvolvedor Full Stack focado em construir aplicações modernas, bem estrutur
 | **Portal Limnológico** | **Portfólio** |
 | Portal acadêmico desenvolvido com Vite para dados ambientais. | Portfólio pessoal com projetos e trajetória profissional. |
 | `Vite` · `TypeScript` | `Next.js` · `TypeScript` |
-| [![GitHub](https://img.shields.io/badge/GitHub-2D1B4E?style=flat-square&logo=github&logoColor=white)](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/) | [![Acessar](https://img.shields.io/badge/Acessar-2D1B4E?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/) |
+| [![GitHub](https://img.shields.io/badge/GitHub-2D1B4E?style=flat-square&logo=github&logoColor=white)](https://leonardo-irineu-dev.vercel.app//) | [![Acessar](https://img.shields.io/badge/Acessar-2D1B4E?style=flat-square&logo=vercel&logoColor=white)](https://leonardo-irineu-dev.vercel.app//) |
 
 </div>
 
@@ -155,6 +155,6 @@ Desenvolvedor Full Stack focado em construir aplicações modernas, bem estrutur
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5512992460071)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-irineu-dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leonardo1692004@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2D1B4E?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-git-master-leonardos-projects-ca06eb83.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2D1B4E?style=flat-square&logo=vercel&logoColor=white)](https://leonardo-irineu-dev.vercel.app//)
 
 </div>
