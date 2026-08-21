@@ -51,12 +51,12 @@ Desenvolvedor Full Stack focado em construir aplicações modernas, bem estrutur
 
 <div align="center">
 
-| | |
-|:---:|:---:|
-| **ArchFlow Server** | **Quantum CRM** |
-| Backend de gestão ágil unificada com Scrum/Kanban, documentação técnica e base para analytics. Construído com .NET 9, DDD e Clean Architecture. | Sistema de gestão de leads para times de vendas, com foco em rastreabilidade de oportunidades e produtividade comercial. |
-| `.NET 9` · `DDD` · `Clean Architecture` · `REST` | `NestJS` · `PostgreSQL` · `Next.js` · `REST` |
-| [![Ver Repositório](https://img.shields.io/badge/Ver_Repositório-2D1B4E?style=flat-square&logo=github&logoColor=white)](https://github.com/ArchFlowPlatform/ArchFlow-Server) | [![Ver Repositório](https://img.shields.io/badge/Ver_Repositório-2D1B4E?style=flat-square&logo=github&logoColor=white)](https://github.com/ErrorSquad-ABP/ABP3-Sistema-Gestao-Leads) |
+| | | |
+|:---:|:---:|:---:|
+| **ArchFlow Server** | **Quantum CRM** | **CourseCore** |
+| Backend de gestão ágil unificada com Scrum/Kanban, documentação técnica e base para analytics. Construído com .NET 9, DDD e Clean Architecture. | Sistema de gestão de leads para times de vendas, com foco em rastreabilidade de oportunidades e produtividade comercial. | API modular para plataforma de cursos, com autenticação, controle de acesso, progresso de aulas e auditoria. Construída com .NET 10, DDD e Clean Architecture. |
+| `.NET 9` · `DDD` · `Clean Architecture` · `REST` | `NestJS` · `PostgreSQL` · `Next.js` · `REST` | `.NET 10` · `PostgreSQL` · `DDD` · `Clean Architecture` |
+| [![Ver Repositório](https://img.shields.io/badge/Ver_Repositório-2D1B4E?style=flat-square&logo=github&logoColor=white)](https://github.com/ArchFlowPlatform/ArchFlow-Server) | [![Ver Repositório](https://img.shields.io/badge/Ver_Repositório-2D1B4E?style=flat-square&logo=github&logoColor=white)](https://github.com/ErrorSquad-ABP/ABP3-Sistema-Gestao-Leads) | [![Ver Repositório](https://img.shields.io/badge/Ver_Repositório-2D1B4E?style=flat-square&logo=github&logoColor=white)](https://github.com/Leo-Slv/CourseCore) |
 
 </div>
 
