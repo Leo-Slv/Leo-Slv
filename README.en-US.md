@@ -138,12 +138,28 @@ Full Stack Developer focused on building modern, well-structured, and useful app
 
 ---
 
-## Activity
+## GitHub Overview
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leo-Slv&theme=dracula" />
+</div>
+
+<br/>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leo-Slv&theme=react-dark&hide_border=true&bg_color=0D1117&color=6D3BB5&line=6D3BB5&point=FFFFFF)
+| Top Languages by Commit | Top Languages by Repository |
+|:---:|:---:|
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Leo-Slv&theme=dracula" /> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Leo-Slv&theme=dracula" /> |
 
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=Leo-Slv&hide_border=true&background=0D1117&ring=6D3BB5&fire=6D3BB5&currStreakLabel=6D3BB5&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E"/>
+  </a>
 </div>
 
 ---
