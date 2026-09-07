@@ -72,10 +72,10 @@ Full Stack Developer focused on building modern, well-structured, and useful app
 | Backend application built with .NET. | Email automation and intelligent triage with FastAPI. |
 | `.NET` | `FastAPI` · `Python` |
 | [![GitHub](https://img.shields.io/badge/GitHub-2D1B4E?style=flat-square&logo=github&logoColor=white)](https://github.com/Leo-Slv/ACTi-case) | [![GitHub](https://img.shields.io/badge/GitHub-2D1B4E?style=flat-square&logo=github&logoColor=white)](https://github.com/Leo-Slv/InboxIQ) |
-| **Limnological Portal** | **Portfolio** |
-| Academic portal developed with Vite for environmental data. | Personal portfolio featuring projects and professional journey. |
-| `Vite` · `TypeScript` | `Next.js` · `TypeScript` |
-| [![GitHub](https://img.shields.io/badge/GitHub-2D1B4E?style=flat-square&logo=github&logoColor=white)](https://leonardo-irineu-dev.vercel.app//) | [![Access](https://img.shields.io/badge/Access-2D1B4E?style=flat-square&logo=vercel&logoColor=white)](https://leonardo-irineu-dev.vercel.app//) |
+| **VDG Platform** | **Portfolio** |
+| Web platform for hosting and delivering online courses and video lessons. | Personal portfolio showcasing projects and professional experience. |
+| `Next.js` · `TypeScript` | `Next.js` · `TypeScript` |
+| [![GitHub](https://img.shields.io/badge/GitHub-2D1B4E?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Leo-Slv/plataforma-vdg) | [![Visit](https://img.shields.io/badge/Visit-2D1B4E?style=flat-square\&logo=vercel\&logoColor=white)](https://leonardo-irineu-dev.vercel.app//) |
 
 </div>
 
