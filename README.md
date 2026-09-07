@@ -72,11 +72,10 @@ Desenvolvedor Full Stack focado em construir aplicações modernas, bem estrutur
 | Aplicação backend construída com .NET. | Automação de e-mails e triagem inteligente com FastAPI. |
 | `.NET` | `FastAPI` · `Python` |
 | [![GitHub](https://img.shields.io/badge/GitHub-2D1B4E?style=flat-square&logo=github&logoColor=white)](https://github.com/Leo-Slv/ACTi-case) | [![GitHub](https://img.shields.io/badge/GitHub-2D1B4E?style=flat-square&logo=github&logoColor=white)](https://github.com/Leo-Slv/InboxIQ) |
-| **Portal Limnológico** | **Portfólio** |
-| Portal acadêmico desenvolvido com Vite para dados ambientais. | Portfólio pessoal com projetos e trajetória profissional. |
-| `Vite` · `TypeScript` | `Next.js` · `TypeScript` |
-| [![GitHub](https://img.shields.io/badge/GitHub-2D1B4E?style=flat-square&logo=github&logoColor=white)](https://leonardo-irineu-dev.vercel.app//) | [![Acessar](https://img.shields.io/badge/Acessar-2D1B4E?style=flat-square&logo=vercel&logoColor=white)](https://leonardo-irineu-dev.vercel.app//) |
-
+| **Plataforma VDG** | **Portfólio** |
+| Plataforma web para hospedagem e disponibilização de cursos e videoaulas. | Portfólio pessoal com projetos e trajetória profissional. |
+| `Next.js` · `TypeScript` | `Next.js` · `TypeScript` |
+| [![GitHub](https://img.shields.io/badge/GitHub-2D1B4E?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Leo-Slv/plataforma-vdg) | [![Acessar](https://img.shields.io/badge/Acessar-2D1B4E?style=flat-square\&logo=vercel\&logoColor=white)](https://leonardo-irineu-dev.vercel.app//) |
 </div>
 
 ---
