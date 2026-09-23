@@ -51,12 +51,16 @@ Full Stack Developer focused on building modern, well-structured, and useful app
 
 <div align="center">
 
-| | | |
-|:---:|:---:|:---:|
-| **ArchFlow Server** | **Quantum CRM** | **CourseCore** |
-| Unified agile management backend with Scrum/Kanban, technical documentation, and an analytics foundation. Built with .NET 9, DDD, and Clean Architecture. | Lead management system for sales teams, focused on opportunity traceability and sales productivity. | Modular API for an online learning platform, featuring authentication, access control, lesson progress tracking, and auditing. Built with .NET 10, DDD, and Clean Architecture. |
-| `.NET 9` · `DDD` · `Clean Architecture` · `REST` | `NestJS` · `PostgreSQL` · `Next.js` · `REST` | `.NET 10` · `PostgreSQL` · `DDD` · `Clean Architecture` |
-| [![View Repository](https://img.shields.io/badge/View_Repository-2D1B4E?style=flat-square&logo=github&logoColor=white)](https://github.com/ArchFlowPlatform/ArchFlow-Server) | [![View Repository](https://img.shields.io/badge/View_Repository-2D1B4E?style=flat-square&logo=github&logoColor=white)](https://github.com/ErrorSquad-ABP/ABP3-Sistema-Gestao-Leads) | [![View Repository](https://img.shields.io/badge/View_Repository-2D1B4E?style=flat-square&logo=github&logoColor=white)](https://github.com/Leo-Slv/CourseCore) |
+| | |
+|:---:|:---:|
+| **CourseCore** | **OrderCore** |
+| Modular API for an online learning platform, featuring authentication, access control, lesson progress tracking, and auditing. Built with .NET 10, DDD, and Clean Architecture. | Order processing system with concurrency-safe inventory reservation, state machines for orders and payments, and failure handling. A Modular Monolith built with .NET 10, DDD, and Clean Architecture, evolving toward events and the Outbox pattern. |
+| `.NET 10` · `PostgreSQL` · `DDD` · `Clean Architecture` | `.NET 10` · `PostgreSQL` · `Modular Monolith` · `DDD` |
+| [![View Repository](https://img.shields.io/badge/View_Repository-2D1B4E?style=flat-square&logo=github&logoColor=white)](https://github.com/Leo-Slv/CourseCore) | [![View Repository](https://img.shields.io/badge/View_Repository-2D1B4E?style=flat-square&logo=github&logoColor=white)](https://github.com/Leo-Slv/OrderCore) |
+| **ArchFlow Server** | **Quantum CRM** |
+| Unified agile management backend with Scrum/Kanban, technical documentation, and an analytics foundation. Built with .NET 9, DDD, and Clean Architecture. | Lead management system for sales teams, focused on opportunity traceability and sales productivity. |
+| `.NET 9` · `DDD` · `Clean Architecture` · `REST` | `NestJS` · `PostgreSQL` · `Next.js` · `REST` |
+| [![View Repository](https://img.shields.io/badge/View_Repository-2D1B4E?style=flat-square&logo=github&logoColor=white)](https://github.com/ArchFlowPlatform/ArchFlow-Server) | [![View Repository](https://img.shields.io/badge/View_Repository-2D1B4E?style=flat-square&logo=github&logoColor=white)](https://github.com/ErrorSquad-ABP/ABP3-Sistema-Gestao-Leads) |
 
 </div>
 
