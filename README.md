@@ -17,24 +17,25 @@
 <table><tr><td width="680px" align="left">
 <br/>
 
-**FULL STACK DEVELOPER**
+**DESENVOLVEDOR FULL STACK JÚNIOR**
 
 ---
 
 # Leonardo da Silva Irineu
 
 Backend · Front-end · APIs · Arquitetura de Software  
-Desenvolvedor Full Stack focado em construir aplicações modernas, bem estruturadas e úteis para problemas reais, unindo APIs robustas com interfaces web em Next.js.
+Desenvolvedor Full Stack Júnior focado em construir aplicações modernas, bem estruturadas e úteis para problemas reais, unindo APIs robustas em C#/ASP.NET Core com interfaces web em Next.js.
 
 <br/>
 
-`ASP.NET` &nbsp; `Nest.js` &nbsp; `FastAPI` &nbsp; `Next.js` &nbsp; `Angular` &nbsp; `Vite`
+`C#` &nbsp; `ASP.NET` &nbsp; `Nest.js` &nbsp; `FastAPI` &nbsp; `Next.js` &nbsp; `Angular` &nbsp; `Vite`
 
 <br/>
 
-> Técnico em ADS — ETEC (2024)  
+> Técnico em Desenvolvimento de Sistemas — ETEC (2024)  
 > Cursando Desenvolvimento de Software Multiplataforma (DSM) — Faculdade de Tecnologia FATEC (2025–2027)  
-> Português (Nativo) · Inglês (Intermediário)
+> Português (Nativo) · Inglês (Intermediário)  
+> Disponível: remoto · híbrido (São José dos Campos e São Paulo) · presencial (São José dos Campos)
 
 <br/>
 
@@ -89,6 +90,7 @@ Desenvolvedor Full Stack focado em construir aplicações modernas, bem estrutur
 <div align="center">
 
 **Linguagens**  
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -97,11 +99,13 @@ Desenvolvedor Full Stack focado em construir aplicações modernas, bem estrutur
 **Frameworks**  
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
 **Ferramentas & Infra**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
